@@ -1,4 +1,4 @@
-# my_first_api
+# My first application
 
 A new Flutter project.
 
