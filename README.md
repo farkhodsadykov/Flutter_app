@@ -1,4 +1,4 @@
-# My first application
+# My first application written by Flutter programing language
 
 A new Flutter project.
 
